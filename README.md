@@ -5,7 +5,7 @@
 
 - 🌱 J'apprends actuellement **React.js, node.js, React Native, C#**
 
-- 👨‍💻 Tous mes projets sont disponibles sur mon portfolio [https://florentin-fallon.github.io/Florentin-Fallon/](https://florentin-fallon.github.io/Florentin-Fallon/)
+- 👨‍💻 Tous mes projets sont disponibles sur mon Github
 
 - 📫 Comment me joindre **florentin.fallon@ynov.com**
 
