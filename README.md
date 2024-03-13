@@ -3,7 +3,7 @@
 
 - 🔭 Je travaille actuellement sur [Neversoft](https://florentin-fallon.github.io/Neversoft/)
 
-- 🌱 J'apprends actuellement **React.js, node.js, React Native, C#**
+- 🌱 J'apprends actuellement **React.js, node.js, mySQL, React Native**
 
 - 👨‍💻 Tous mes projets sont disponibles sur mon Github
 
