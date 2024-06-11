@@ -1,9 +1,9 @@
 <h1 align="center">Salut👋, Moi c'est Florentin</h1>
 <h3 align="center">Étudiant en informatique qui adore le front-end</h3>
 
-- 🔭 Je travaille actuellement sur [Neversoft](https://florentin-fallon.github.io/Neversoft/)
+- 🔭 Je travaille actuellement sur Codev
 
-- 🌱 J'apprends actuellement **React.js, node.js, mySQL, React Native**
+- 🌱 Actuellement j'approffondie mes connaissances sur **React.js, Tailwind, motion, framer, node.js**
 
 - 👨‍💻 Tous mes projets sont disponibles sur mon Github
 
