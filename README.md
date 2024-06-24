@@ -3,7 +3,7 @@
 
 - 🔭 Je travaille actuellement sur Codev
 
-- 🌱 Actuellement j'approffondie mes connaissances sur **React.js, Tailwind, motion, framer, node.js**
+- 🌱 Actuellement j'approffondie mes connaissances sur **React.js, Tailwind**
 
 - 👨‍💻 Tous mes projets sont disponibles sur mon Github
 
