@@ -1,9 +1,9 @@
 <h1 align="center">Salut👋, Moi c'est Florentin</h1>
 <h3 align="center">Étudiant en informatique qui adore le front-end</h3>
 
-- 🔭 Je travaille actuellement sur Codev
+- 🔭 Je travaille actuellement sur l'apprentissage d'Angular pour mon alternance
 
-- 🌱 Actuellement j'approffondie mes connaissances sur **React.js, Tailwind**
+- 🌱 Actuellement j'approffondie mes connaissances sur **Angular**
 
 - 👨‍💻 Tous mes projets sont disponibles sur mon Github
 
