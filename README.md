@@ -1,9 +1,9 @@
 <h1 align="center">Salut👋, Moi c'est Florentin</h1>
-<h3 align="center">Étudiant en informatique qui adore le front-end</h3>
+<h3 align="center">Étudiant en B3 informatique</h3>
 
 - 🔭 Je travaille actuellement sur un projet en React pour mon alternance
 
-- 🌱 Actuellement j'approffondie mes connaissances sur **React**
+- 🌱 Actuellement j'approffondie mes connaissances sur **React, MUI, Dexie et Redux**
 
 - 👨‍💻 Tous mes projets sont disponibles sur mon Github
 
