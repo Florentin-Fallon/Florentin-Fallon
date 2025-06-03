@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour 👋,</h1>
 <h2 align="center">je suis Florentin Fallon</h2>
-<h3 align="center">Étudiant en informatique en alternance chez CGI</h3>
+<h3 align="left">Étudiant en informatique en alternance chez CGI</h3>
 
 <p align="left">
   💼 Je travaille chez <strong>CGI</strong> sur des projets utilisant <strong>DQL</strong>, <strong>Excel</strong> et <strong>Linux</strong>.<br>
@@ -8,7 +8,7 @@
   📫 Contact : <a href="mailto:florentin.fallon@outlook.fr">florentin.fallon@outlook.fr</a>
 </p>
 
-<h3 align="center">Mes réseaux sociaux</h3>
+<h3 align="left">Mes réseaux sociaux</h3>
 <p align="left">
   <a href="https://linkedin.com/in/florentinfallon" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<h3 align="center">Compétences & Outils</h3>
+<h3 align="left">Compétences & Outils</h3>
 <p align="left" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; max-width: 600px; margin: auto;">
   <a href="https://www.sql.org/dql/" target="_blank" rel="noopener noreferrer" title="DQL">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="DQL" width="40" height="40" />
