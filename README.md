@@ -2,7 +2,7 @@
 <h2 align="center">je suis Florentin Fallon</h2>
 <h3 align="center">Étudiant en informatique en alternance chez CGI</h3>
 
-<p align="center">
+<p align="left">
   💼 Je travaille chez <strong>CGI</strong> sur des projets utilisant <strong>DQL</strong>, <strong>Excel</strong>, <strong>Python</strong> et <strong>Linux</strong>.<br>
   💻 En parallèle, je développe des projets personnels avec <strong>React.js</strong>, <strong>TypeScript</strong>, <strong>Vite</strong>,<strong>Tailwindcss</strong> et <strong>MUI</strong>.<br>
   📫 Contact : <a href="mailto:florentin.fallon@outlook.fr">florentin.fallon@outlook.fr</a>
