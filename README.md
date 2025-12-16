@@ -36,10 +36,6 @@
   </a>
 </p>
 
-## 📊 GitHub Metrics
-
-![Metrics](https://metrics.lecoq.io/florentinfallon?template=classic&plugin_followup=1&plugin_achievements=1&config.footer=0)
-
 <h3 align="center">Compétences & Outils</h3>
 <p align="center" style="display:flex;justify-content:center;gap:12px;flex-wrap:wrap;max-width:680px;margin:auto;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36"/>
