@@ -1,13 +1,13 @@
 <h1 align="center">Salut 👋 <br/> Moi c'est Florentin</h1>
 <h3 align="center">Étudiant en informatique • Alternant chez CGI</h3>
 
-<p align="left">
+<p align="left margin-top:5px">
   💼 <strong>CGI</strong> — projets en <strong>DQL</strong>, <strong>Excel</strong>, <strong>Python</strong>, <strong>Linux</strong><br>
   💻 <strong>Projets personnels</strong> — <strong>React.js</strong>, <strong>Vite</strong>, <strong>TailwindCSS</strong>, <strong>MUI</strong>, <strong>Node.js</strong>, <strong>MongoDB</strong>, <strong>Supabase</strong><br>
   📫 <strong>Contact</strong> — <a href="mailto:florentin.fallon@outlook.fr">florentin.fallon@outlook.fr</a>
 </p>
 
-<h3 align="center">Réseaux</h3>
+<h3 align="center margin-top:5px">Réseaux</h3>
 <p align="center">
   <a href="https://linkedin.com/in/florentinfallon" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
