@@ -3,7 +3,7 @@
   Moi c’est <strong>Florentin</strong>
 </h1>
 
-<h3 align="center">Étudiant en informatique • Alternant chez CGI</h3>
+<h3 align="center">Étudiant en informatique • Alternant chez  <span style="color:#e11d48;"><strong>CGI</strong></span></h3>
 
 <p align="left">
   <strong>💼 Travail</strong><br>
