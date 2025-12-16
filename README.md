@@ -4,14 +4,7 @@
 </h1>
 
 <h3 align="center">Étudiant en informatique • Alternant chez CGI</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="18"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="18"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="18"/>
-</p>
-
+---
 <p align="left">
   <strong>💼 Travail</strong><br>
   Alternant chez <strong>CGI</strong> sur des projets mêlant <strong>DQL</strong>, <strong>Excel</strong>, <strong>Python</strong> et <strong>Linux</strong>.
