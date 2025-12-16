@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Étudiant en informatique • Alternant chez
+  Étudiant en informatique • Alternant chez 
   <img src="https://img.shields.io/badge/CGI-%23D6001C?style=flat-square" />
 </h3>
 
