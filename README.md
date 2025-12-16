@@ -26,12 +26,6 @@
   <a href="https://www.sql.org/dql/" target="_blank" rel="noopener noreferrer" title="DQL">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="DQL" width="40" height="40" />
   </a>
- <a href="https://www.microsoft.com/excel" target="_blank" rel="noopener noreferrer" title="Microsoft Excel">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftoffice/microsoftoffice-original.svg"
-       alt="Excel"
-       width="40"
-       height="40" />
-</a>
   <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer" title="Linux">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
   </a>
@@ -47,32 +41,14 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer" title="MongoDB">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
   </a>
-  <a href="https://www.usebruno.com/" target="_blank" rel="noopener noreferrer" title="Bruno API Client">
-  <img src="https://raw.githubusercontent.com/usebruno/bruno/main/packages/bruno-electron/public/bruno.svg"
-       alt="Bruno API Client"
-       width="40"
-       height="40" />
-</a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer" title="VSCode">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" />
   </a>
-  <a href="https://cursor.sh/" target="_blank" rel="noopener noreferrer" title="Cursor Editor">
-  <img src="https://raw.githubusercontent.com/getcursor/cursor/main/public/cursor-logo.svg"
-       alt="Cursor"
-       width="40"
-       height="40" />
-</a>
   <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer" title="Node.js">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
 </a>
   <a href="https://supabase.com/" target="_blank" rel="noopener noreferrer" title="Supabase">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40" />
-</a>
-  <a href="https://heroicons.com/" target="_blank" rel="noopener noreferrer" title="Heroicons">
-  <img src="https://raw.githubusercontent.com/tailwindlabs/heroicons/master/.github/logo.svg"
-       alt="Heroicons"
-       width="40"
-       height="40" />
 </a>
   <a href="https://react-icons.github.io/react-icons/" target="_blank" rel="noopener noreferrer" title="React Icons">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Icons" width="40" height="40" />
