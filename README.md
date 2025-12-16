@@ -1,5 +1,5 @@
-<h1 align="center">Bonjour 👋</h1>
-<h2 align="center">Florentin Fallon</h2>
+<h1 align="center">Salut 👋</h1>
+<h2 align="center">Moi c'est Florentin</h2>
 <h3 align="center">Étudiant en informatique • Alternant chez CGI</h3>
 
 <p align="center">
