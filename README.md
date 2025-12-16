@@ -3,7 +3,10 @@
   Moi c’est <strong>Florentin</strong>
 </h1>
 
-<h3 align="center">Étudiant en informatique • Alternant chez  <span style="color:#e11d48;"><strong>CGI</strong></span></h3>
+<h3 align="center">
+  Étudiant en informatique • Alternant chez
+  <img src="https://img.shields.io/badge/CGI-%23D6001C?style=flat-square" />
+</h3>
 
 <p align="left">
   <strong>💼 Travail</strong><br>
