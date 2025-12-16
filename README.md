@@ -1,10 +1,5 @@
-<h1 align="center">Salut 👋</h1>
-<h2 align="center">Moi c'est Florentin</h2>
+<h1 align="center">Salut 👋 <br/> Moi c'est Florentin</h1>
 <h3 align="center">Étudiant en informatique • Alternant chez CGI</h3>
-
-<p align="center">
-  Développeur curieux, rigoureux et orienté solutions.
-</p>
 
 <p align="left">
   💼 <strong>CGI</strong> — projets en <strong>DQL</strong>, <strong>Excel</strong>, <strong>Python</strong>, <strong>Linux</strong><br>
