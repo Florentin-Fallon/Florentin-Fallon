@@ -36,11 +36,9 @@
   </a>
 </p>
 
-<h3 align="center">📊 GitHub Metrics</h3>
+## 📊 GitHub Metrics
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/florentinfallon?template=classic&plugin_followup=1&plugin_achievements=1&config.footer=0" />
-</p>
+![Metrics](https://metrics.lecoq.io/florentinfallon?template=classic&plugin_followup=1&plugin_achievements=1&config.footer=0)
 
 <h3 align="center">Compétences & Outils</h3>
 <p align="center" style="display:flex;justify-content:center;gap:12px;flex-wrap:wrap;max-width:680px;margin:auto;">
