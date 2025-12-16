@@ -53,12 +53,28 @@
   <a href="https://bruno.so/" target="_blank" rel="noopener noreferrer" title="Bruno">
     <img src="https://bruno.so/favicon.ico" alt="Bruno" width="40" height="40" />
   </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer" title="Node.js">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+</a>
+  <a href="https://supabase.com/" target="_blank" rel="noopener noreferrer" title="Supabase">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40" />
+</a>
+  <a href="https://heroicons.com/" target="_blank" rel="noopener noreferrer" title="Heroicons">
+  <img src="https://raw.githubusercontent.com/tailwindlabs/heroicons/master/.github/logo.svg" alt="Heroicons" width="40" height="40" />
+</a>
+  <a href="https://react-icons.github.io/react-icons/" target="_blank" rel="noopener noreferrer" title="React Icons">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Icons" width="40" height="40" />
+</a>
+  <a href="https://www.notion.so/" target="_blank" rel="noopener noreferrer" title="Notion">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="Notion" width="40" height="40" />
+</a>
   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer" title="React.js">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer" title="TypeScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
   </a>
+  
   <a href="https://vitejs.dev/" target="_blank" rel="noopener noreferrer" title="Vite">
     <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40" />
   </a>
