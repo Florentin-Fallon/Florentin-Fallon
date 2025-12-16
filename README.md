@@ -22,6 +22,18 @@
 </p>
 
 <h3 align="center">Compétences & Outils</h3>
+<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" title="Python">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+       alt="Python"
+       width="40"
+       height="40" />
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer" title="Tailwind CSS">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
+       alt="Tailwind CSS"
+       width="40"
+       height="40" />
+</a>
 <p align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; max-width: 600px; margin: auto;">
   <a href="https://www.sql.org/dql/" target="_blank" rel="noopener noreferrer" title="DQL">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="DQL" width="40" height="40" />
