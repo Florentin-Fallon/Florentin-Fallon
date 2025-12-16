@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">Étudiant en informatique • Alternant chez CGI</h3>
----
+
 <p align="left">
   <strong>💼 Travail</strong><br>
   Alternant chez <strong>CGI</strong> sur des projets mêlant <strong>DQL</strong>, <strong>Excel</strong>, <strong>Python</strong> et <strong>Linux</strong>.
