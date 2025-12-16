@@ -39,8 +39,7 @@
 <h3 align="center">📊 GitHub Metrics</h3>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/florentinfallon?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&plugin_followup=1&plugin_achievements=1&plugin_achievements_display=detailed&plugin_achievements_threshold=C&config.timezone=Europe/Paris&config.display=large&config.footer=0"
-       alt="GitHub Metrics" />
+  <img src="https://metrics.lecoq.io/florentinfallon?template=classic&plugin_followup=1&plugin_achievements=1&config.footer=0" />
 </p>
 
 <h3 align="center">Compétences & Outils</h3>
